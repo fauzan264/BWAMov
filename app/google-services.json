@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740286499638",
+    "project_id": "bwa-mov-264",
+    "storage_bucket": "bwa-mov-264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740286499638:android:10634c832ca97d5e3b4197",
+        "android_client_info": {
+          "package_name": "space.fauzan264.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740286499638-6ddub7b4adru2cji5cabagr4lcab7bc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzHMF1hSFuExfIlix0K9r8rrbtA1xoM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740286499638-6ddub7b4adru2cji5cabagr4lcab7bc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
